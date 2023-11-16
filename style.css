@@ -1,0 +1,48 @@
+body{
+    background-image: url("fon1.jpg")
+}
+
+
+.title{
+    color: rgb(54, 29, 197);
+    font-weight: bold;
+    background-color:rgb(246, 152, 186);
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 50px;
+    font-family: fantasy;
+
+}
+
+
+.big{
+    background-color:rgb(246, 152, 186);
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+.notation{
+    font-style: italic;
+    font-size: 30px;
+    color:rgb(174, 17, 75);
+}
+
+.list{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    font-size: 25px;
+}
+ul{
+    list-style-type: none;
+}
+
+.text1{
+    font-size: 25px;
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+}
